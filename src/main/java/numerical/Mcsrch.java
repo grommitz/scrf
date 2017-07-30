@@ -18,7 +18,7 @@
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA, 02111-1307, USA,
  * or visit the GNU web site, www.gnu.org.
  */
-package riso.numerical;
+package numerical;
 
 /** This class implements an algorithm for multi-dimensional line search.
   * This file is a translation of Fortran code written by Jorge Nocedal.
